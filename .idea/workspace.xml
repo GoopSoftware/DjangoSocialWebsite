@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c4a712b-c56a-4a7f-a439-56f49f11ae7e" name="Changes" comment="3/22">
-      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/static/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/account/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookmarks/account/urls.py" afterDir="false" />
+    <list default="true" id="7c4a712b-c56a-4a7f-a439-56f49f11ae7e" name="Changes" comment="3/22 - Added login and logout authentication. Fixed css">
+      <change afterPath="$PROJECT_DIR$/Documentation/Chapter 4-7.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Chapter4-7Documentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookmarks/account/templates/registration/logged_out.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmarks/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmarks/account/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +88,29 @@
       <option name="project" value="LOCAL" />
       <updated>1742667255051</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3/22 - Added login and logout authentication. Fixed css">
+      <option name="closed" value="true" />
+      <created>1742705698597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742705698597</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3/22 - Added login and logout authentication. Fixed css">
+      <option name="closed" value="true" />
+      <created>1742705716154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742705716154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit: No new changes" />
     <MESSAGE value="3/22" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/22" />
+    <MESSAGE value="3/22 - Added login and logout authentication. Fixed css" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/22 - Added login and logout authentication. Fixed css" />
   </component>
 </project>
