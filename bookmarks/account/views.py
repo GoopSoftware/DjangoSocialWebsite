@@ -11,6 +11,9 @@ from .forms import (
 )
 from .models import Profile
 
+# views
+
+
 def user_login(request):
     if request.method == 'POST':
         form = LoginForm(request.POST)
